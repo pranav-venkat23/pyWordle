@@ -18,4 +18,4 @@ A Python-based Wordle game built for my AP Computer Science Principles Create Ta
 1. Make sure `words.txt` is in the same folder.
 2. Run the game in your terminal:
    ```bash
-   python wordle.py
+   python pyWordle.py
