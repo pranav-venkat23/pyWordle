@@ -1,4 +1,4 @@
-# APCSP Wordle Project - "pyWordle"
+# AP CSP Wordle Project - "pyWordle"
 
 A Python-based Wordle game built for my AP Computer Science Principles Create Task. The game selects a random five-letter word from a large `.txt` word list and gives symbol-based feedback after each guess.
 
